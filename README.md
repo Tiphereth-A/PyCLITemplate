@@ -1,5 +1,5 @@
-# PyCli
+# PyCLI
 
-![GitHub](https://img.shields.io/github/license/Tiphereth-A/PyCli)
+![GitHub](https://img.shields.io/github/license/Tiphereth-A/PyCLI)
 
-My Python Cli template 
+My Python CLI template 
